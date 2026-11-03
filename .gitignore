@@ -1,0 +1,8 @@
+# Fichiers compilés
+*.exe
+*.o
+rencontres
+
+# Éditeur
+.vscode/
+.idea/
